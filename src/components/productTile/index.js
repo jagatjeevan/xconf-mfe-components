@@ -1,6 +1,5 @@
 import React from "react";
 import { label } from "../../configs/labels";
-import CartButton from '../productDetails/CartButton';
 import {
   StyledProductTile,
   ProductImageContainer,
